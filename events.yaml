@@ -1,0 +1,3 @@
+specVersion: v1
+type: EventProducer
+description: A sample service that is just an event producer
